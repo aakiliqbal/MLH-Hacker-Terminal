@@ -5,7 +5,7 @@ Hacker Terminal Game
 
 In this game you are a hacker, you need to hack different high security facilities through a terminal whilst using the provided hints/clues.
 
-**I have used game engine Unity And C# for scripting.**
+**I have used Unity game engine and C# for scripting.**
 
 **Watch Game Play :- **
 
