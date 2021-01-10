@@ -7,7 +7,12 @@ In this game you are a hacker, you need to hack different high security faciliti
 
 **I have used game engine Unity And C# for scripting.**
 
-**Watch Game Play**
+**Watch Game Play :- **
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JOlBLoq_WzI/0.jpg)](https://www.youtube.com/watch?v=JOlBLoq_WzI)
+
+
+**Try it out yourself -**
+
+[link](https://aakiliqbal.itch.io/hacker-terminal)
